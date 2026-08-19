@@ -141,9 +141,9 @@ AI Tooling   ████████████░░░░░░░░░░ 
 
 <!-- Snake animation - add via GitHub Actions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syahazz/Syahazz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syahazz/Syahazz/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Syahazz/Syahazz/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syahazz/Syahazz/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syahazz/Syahazz/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Syahazz/Syahazz/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
