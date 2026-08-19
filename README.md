@@ -86,20 +86,34 @@ Autonomous infra management so developers can focus on building, not ops.
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syahazz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahazz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=6" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syahazz&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="49%"/>
-
-<br/>
-
-[![Syahazz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Syahazz&bg_color=0d1117&color=A855F7&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/Syahazz)
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|:---:|:---|:---:|
+| [**☁️ Velrox**](https://velrox.cloud) | Autonomous AI-powered hosting & deployment platform — solo built | `Rails` `AI` `DevOps` |
+| **🛏️ Sleep Center App** | Flutter e-commerce app for mattress brand (Massindo Group) | `Flutter` `Firebase` |
+| **💰 Wealth Checker** | Personal finance tracker for Indonesian users | `Flutter` `Riverpod` |
+| **📋 Alita Pricelist** | Internal B2B/B2C pricelist app for Massindo sales team | `Flutter` `BLoC` |
+| **🦾 Nocta Spine Demo** | On-device pose detection MVP for mattress showroom | `ML` `Browser` |
 
 </div>
+
+---
+
+## 📊 Skill Bars
+
+```
+Flutter      ████████████████████░░   90%  🔥
+Dart         ███████████████████░░░   85%  💙
+Ruby/Rails   ████████████████░░░░░░   72%  💎
+Firebase     ████████████████░░░░░░   70%  🔥
+PostgreSQL   ██████████████░░░░░░░░   65%  🐘
+Networking   ████████████████░░░░░░   72%  🌐
+Linux/Ubuntu ███████████████░░░░░░░   68%  🐧
+AI Tooling   ████████████░░░░░░░░░░   55%  🤖
+```
 
 ---
 
